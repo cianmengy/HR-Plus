@@ -2624,7 +2624,7 @@
    "property": "options",
    "property_type": "test",
    "row_name": null,
-   "value": "Active\nInactive\nSuspended\nResigned\nAWOL\nOCW\nFTE"
+   "value": "Active\nInactive\nSuspended\nLeft"
   }
  ],
  "sync_on_migrate": 1
